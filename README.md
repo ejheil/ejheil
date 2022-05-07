@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a rel="me nofollow" href="https://mumpsimus.org/">Playing with indieauth, don't mind me</a>
+
 
 <!--
 **ejheil/ejheil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
